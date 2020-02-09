@@ -43,7 +43,7 @@ body {
         <nav class="my-2 my-md-0 mr-md-3">
             by : Rizred Vlo 7zer0✬<!--<a class="p-2 text-dark" href="https://github.com/vikas5914/Facebook-Video-Downloader">GitHub</a>-->
         </nav>
-    </div>-->
+    </div>
     <main role="main" class="flex-shrink-0">
         <div class="container">
             <div class="title px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
