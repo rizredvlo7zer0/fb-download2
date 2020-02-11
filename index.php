@@ -23,7 +23,7 @@ body {
 2px;border-radius:10px;position:fixed;top:2px;left:2px;left:1px;right:1px;}.kotak1{text-align:center;background:transparant;border:solid lime 2px;border-radius:10px;position:fixed;bottom:2px;left:1px;right:1px;}</style><br/><br/>
 
 
-<div class="kotak"><font color="">••••• Zona Red •••••</font></div><div class="kotak1"><blink>|"Dev By Rizred Vlo 7zer0✬"|</blink></div></center>
+<div class="kotak"><font color="lime">••••• Zona Red •••••</font></div><div class="kotak1"><blink>|"Dev By Rizred Vlo 7zer0✬"|</blink></div></center>
 
 
 
